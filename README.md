@@ -12,6 +12,7 @@ For synchronization of the web-value of gear servo positions with control system
 - press simultaneously upgear and downgear buttons
 
 
+
 ![Model](https://raw.githubusercontent.com/evgenii-koshelev/bike_servo_shifters/main/rear_shifter_assmbled.jpeg)
 ![Model](https://raw.githubusercontent.com/evgenii-koshelev/bike_servo_shifters/main/rear_shifter_servo_holder_1.jpg)
 ![Model](https://raw.githubusercontent.com/evgenii-koshelev/bike_servo_shifters/main/rear_shifter_servo_holder_2.jpg)
